@@ -1,13 +1,9 @@
 ---
 layout: post
 title: Google Summer of Code with SymPy
-tags:
-  - GSoC
-  - SymPy
-  - SymEngine
 ---
 
-![GSoC 2015](/assets/GSoC.png)
+<img align = "center" src="/assets/GSoC.png">
 
 
 Hi! 
@@ -24,9 +20,9 @@ I'd also like to congratulate [Ranjith](https://github.com/ranjithkumar007), for
 
 ### SymPy and SymEngine
 
-<img style="float: right" src="/assets/sympy.png">
+<img style = "float: right" src="/assets/sympy.png">
 
-> `SymPy` is a Python library for symbolic mathematics. It aims to become a full-featured **[Computer Algebra System](http://en.wikipedia.org/wiki/Computer_algebra_system)** (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible.
+> `SymPy` is a Python library for symbolic mathematics. It aims to become a full-featured [Computer Algebra System](http://en.wikipedia.org/wiki/Computer_algebra_system) (CAS) while keeping the code as simple as possible in order to be comprehensible and easily extensible.
 
 > `SymEngine` is a fast symbolic manipulation library, written in C++. Optional thin wrappers allow usage of the library from other languages. It plans to serve as a symbolic backend for the `SymPy` CAS.
 
