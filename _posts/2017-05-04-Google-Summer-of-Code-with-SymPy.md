@@ -8,7 +8,7 @@ title: Google Summer of Code with SymPy
 
 Hi! 
 
-The Google Summer of Code accepted proposals are out and I have been selected. As mentioned in a previous post, my project, `Improving SymEngine's Python Wrappers and SymPy-SymEngine Integration` has been selected and I'll get to work with [SymEngine](https://github.com/symengine/symengine) and [SymPy](https://github.com/sympy/sympy) communities.
+The Google Summer of Code results are out and I have been selected. My project, `Improving SymEngine's Python Wrappers and SymPy-SymEngine Integration` has been chosen and I'll get to work with [SymEngine](https://github.com/symengine/symengine) and [SymPy](https://github.com/sympy/sympy) communities.
 
 ### Exciting Times!
 
