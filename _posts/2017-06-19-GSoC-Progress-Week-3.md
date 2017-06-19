@@ -19,7 +19,7 @@ I pushed in [#155](https://github.com/symengine/symengine.py/pull/155) fixing a 
 
 I reached out to Isuru once again regarding further work to be undertaken for `PyDy`, and he suggested wrapping up `Relationals` from `SymEngine`. The work, which is pushed through [#159](https://github.com/symengine/symengine.py/pull/159), is in itself close to completion, with only specific parsing capabilities left to be implemented (for eg.  `x < y` should return a `LessThan(x, y)` object). 
 
-Wrapping `Relationals` also marks the initiation of Phase II of my proposal, which predominantly focuses on bug-fixing and wrapping in `SymEngine.py`.
+Wrapping `Relationals` also marks the initiation of Phase III of my proposal, which predominantly focuses on bug-fixing and wrapping in `SymEngine.py`.
 
 See you again!
 
