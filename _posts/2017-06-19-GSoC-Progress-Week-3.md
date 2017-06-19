@@ -10,9 +10,9 @@ Hello, this post contains the third report of my GSoC progress. This week was mo
 ### SymEngine
 This week I worked on implementing `Conjugate` class and the related methods in `SymEngine`, through PR [#1295](https://github.com/symengine/symengine/pull/1295).
 
-I also worked on implementing the "fancy-set" `Range`, the code for which would be complete enough to be pushed sometime the coming week. 
+I also worked on implementing the "fancy-set" `Range`, the code for which would be complete enough to be pushed sometime in the coming GSoC week. 
 
-Also, since the coming week would probably be the last week that I'd be working on `SymEngine`, I spent some time going through the codebase and checking for discontinuities between `SymEngine` and `SymPy`'s implementations.
+Also, since it would probably be the last week that I'd be working on `SymEngine`, I spent some time going through the codebase and checking for discontinuities between `SymEngine` and `SymPy`'s implementations.
 
 ### SymEngine.py
 I pushed in [#155](https://github.com/symengine/symengine.py/pull/155) fixing a trivial change from `_sympify` to `sympify` in relevant cases throughout the `SymEngine.py` codebase. The PR is reviewed and merged.
