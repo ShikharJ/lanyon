@@ -8,7 +8,7 @@ Hello, this post contains the second report of my GSoC progress.
 ## Report
 
 ### SymEngine
-This week I mostly worked on implementing specific classes in `SymEngine`, namely `Sign`, `Float` and `Ceiling`, through PRs [#1287](https://github.com/symengine/symengine/pull/1287) and [#1290](https://github.com/symengine/symengine/pull/1290). The work is currently under review, but again, mostly complete.
+This week I mostly worked on implementing specific classes in `SymEngine`, namely `Sign`, `Floor` and `Ceiling`, through PRs [#1287](https://github.com/symengine/symengine/pull/1287) and [#1290](https://github.com/symengine/symengine/pull/1290). The work is currently under review, but again, mostly complete.
 
 Though I had originally planned to implement more classes in my proposal, after a thorough look, I realised that a number of the mentioned classes could easily be implemented in `SymEngine.py` side only. As such, there was no hard requirement for them to be implemented in `SymEngine`.
 Also, a number of them had been pre-implemented, but rather as `virtual` methods, and not standalone classes. There are still a couple of classes that I'd be working on in the coming week, which would effectively finish up a huge part of the planned Phase I of my proposal.
