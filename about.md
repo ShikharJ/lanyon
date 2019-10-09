@@ -3,6 +3,8 @@ layout: page
 title: About
 ---
 
+<img align = "center" src="/assets/Portrait.png">
+
 I am a final year undergraduate at Indian Institute of Technology, Patna, majoring in Computer Science and Engineering. I'm insanely passionate about computer science and mathematics, currently trying out a number of areas, ranging from pure mathematics to machine learning and software systems.
 
 I'm primarily interested in theoretical and applied research, in the broader areas of Artificial Intelligence and Software Systems. I previously collaborated with [Dr. Benjamin Nye](http://ict.usc.edu/profile/benjamin-nye/) during the summer of 2019 at University of Southern California's Institute for Creative Technologies (ICT) as a Visiting Academic researcher, working in the domain of feature engineering (applied ML) on the Service for Measurement and Adaptation to Real-Time Engagement (SMART-E) project.
