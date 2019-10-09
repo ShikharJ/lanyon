@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<img align = "center" width = "264" height = "286" src = "/assets/Portrait.png">
+<img align = "middle" width = "264" height = "286" src = "/assets/Portrait.png">
 
 I am a final year undergraduate at Indian Institute of Technology, Patna, majoring in Computer Science and Engineering. I'm insanely passionate about computer science and mathematics, currently trying out a number of areas, ranging from pure mathematics to machine learning and software systems.
 

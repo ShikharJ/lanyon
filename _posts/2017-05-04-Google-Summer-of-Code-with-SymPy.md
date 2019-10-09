@@ -3,7 +3,7 @@ layout: post
 title: Google Summer of Code with SymPy
 ---
 
-<img align = "center" src = "/assets/GSoC.png">
+<img align = "middle" src = "/assets/GSoC.png">
 
 
 Hi! 
