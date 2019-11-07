@@ -10,15 +10,18 @@ While this book does not serve as a hard-core machine learning resource, I have 
 ## The Writing Style
 Much like Gilbert Strang's `Introduction to Linear Algebra`, this book introduces a rather intuitional  approach to teaching the subject, leaving out proofs for the majority of the book. For people who are just entering college, this is an ideal resource for building a good math background for tackling undergraduate level CS courses. Since this book is mostly geared towards teaching the subject from a CS perspective, if you are more mathematically inclined, you might wish to explore other books that deal with the subject with a bit more mathematical rigour.
 
-The highlighted theorems and lemmas are the most important feature of the book, especially for the situations where you might be inclined to use ot as a quick reference. In addition to this, there are ample number of practice problems per chapter, of varying level of difficulty, to help you in grasping the concepts better.
+The highlighted theorems and lemmas are the most important feature of the book, especially for the situations where you might be inclined to use it as a quick reference. In addition to this, there are ample number of practice problems per chapter, of varying level of difficulty, to help you in grasping the concepts better.
 
 ## Important Sections
 
 ### Chapter 1
 
+
 ### Chapter 2
 
+
 ### Chapter 3
+
 
 ### Chapter 4
 
@@ -37,15 +40,19 @@ The highlighted theorems and lemmas are the most important feature of the book, 
 
 ### Chapter 9
 
+
 ### Chapter 10
+
 
 ### Chapter 11
 
+
 ### Chapter 12
+
 
 ### Chapter 13
 
 
-In conclusion, I would like to say that if you are in a time-crunch, and wish to read this book in the fastest way possible, I'd recommend reading through the highlighted theorems and working your way through the starred problems at the very least. Be cautious though, these are some pretty neat problems and might come off as too challenging to you, depending on your maturity in proof-based mathematics and problem solving.
+In conclusion, I would like to say that if you are in a time-crunch, and wish to read this book in the fastest way possible, I'd recommend reading through the highlighted theorems and working your way through the starred **( * )** problems at the very least. Be cautious though, these are some pretty neat problems and might come off as too challenging to you, depending on your maturity in proof-based mathematics and problem solving. However, each of these is a must try problem, in order to master the material.
 
 **Do Androids Dream Of Eclectic Memes?**
