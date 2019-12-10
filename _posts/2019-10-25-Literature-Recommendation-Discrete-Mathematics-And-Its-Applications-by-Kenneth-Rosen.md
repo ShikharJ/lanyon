@@ -40,7 +40,7 @@ Like the previous two chapters, this section is better learnt through a more foc
 
 ### Chapter 9
 
-This chapter succinctly introduces the notion of relations as a generalization of the concept of functions introduced in the second chapter. The concepts of reflexiveness, symmetricity and transitivity are also presented, along with the generalization to n-ary relations and their representations in terms of matrices. This is supplemented with the presentation of equivalence relations and partial orderings, which are heavily used in pretty much all of pure mathematics of the modern era, including real analysis and abstract algebra.
+This chapter succinctly introduces the notion of relations as a generalization of the concept of functions introduced in the second chapter. The concepts of reflexiveness, symmetricity and transitivity are also presented, along with the generalization to n-ary relations and their representations in terms of matrices. This is supplemented with the presentation of equivalence relations and partial orderings, which are heavily used in pretty much all of pure mathematics of the modern era, including `Real Analysis` and `Abstract Algebra`.
 
 ### Chapters 10-11
 
