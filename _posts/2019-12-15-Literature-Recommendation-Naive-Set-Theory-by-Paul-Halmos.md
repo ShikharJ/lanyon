@@ -16,36 +16,31 @@ The proofs might appear a bit hand-wavy to seasoned enthusiasts, but that should
 
 ## Important Sections
 
-### Chapter 1
+### Chapters 1-2
 
 
-### Chapter 2
+### Chapters 3-5
 
 
-### Chapters 3-4
+### Chapters 6-10
 
 
-### Chapter 5
+### Chapters 11-13
 
 
-### Chapters 6-7
+### Chapters 14-18
 
 
-### Chapter 8
+### Chapters 19-21
 
 
-### Chapter 9
+### Chapters 22-23
 
 
-### Chapters 10-11
+### Chapters 24-25
 
 
-### Chapter 12
 
-
-### Chapter 13-25
-
-
-At the end, I should also mention that I personally cross-checked my understanding of the material by glancing through Christoper Wilson's [`2016 REU Report on ZFC`](http://math.uchicago.edu/~may/REU2016/REUPapers/Wilson.pdf) undertaken at University of Chicago. It should be taken in stride that while Halmos claims that the book isn't notoriously difficult to master, it can be pretty gut-wrenching to a beginning student of mathematics. However, it is seriously fun to take a look at, and can be read like a novel. In the words of the author, "Generally, set theory is pretty trivial stuff really, but in order to become a mathematician you need some, and here it is: read it, absorb it, and then forget it".
+At the end, I should also mention that I personally cross-checked my understanding of the material by glancing through Christoper Wilson's `Research Experience for Undergraduates (REU)` report [A Brief Introduction To ZFC](http://math.uchicago.edu/~may/REU2016/REUPapers/Wilson.pdf) undertaken at University of Chicago in 2016. It should be taken in stride that while Halmos claims that the book isn't notoriously difficult to master, it can be pretty polarizing to a beginning student of mathematics. However, it is seriously fun to take a look at, and can be read like a novel. In the words of the author, "Generally, set theory is pretty trivial stuff really, but in order to become a mathematician you need some, and here it is: read it, absorb it, and then forget it".
 
 **What's Outside The Simulation?**
