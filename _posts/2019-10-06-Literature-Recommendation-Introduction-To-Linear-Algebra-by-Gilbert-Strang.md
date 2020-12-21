@@ -48,4 +48,6 @@ Heavy on applications of the concepts introduced in the first half. `Fast Fourie
 
 In conclusion, I would also like to mention that Prof. Strang's [MIT OCW course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/index.htm) (from 2010) contains a much faster explanation to the text, and is a nice alternative to those who do not have a lot of time on their hands to spare. Be advised, the text covers some material he doesn't teach in his course, and vice versa. A curious student may also wish to venture into Serge Lang's `Introduction to Linear Algebra` for certain topics that Strang does not cover.
 
+**Note:** Wellesley Publishers have made this book available in India for a fraction of the cost of the international edition. They sell directly on their website to reduce vendor commissions (sorry Amazon!). Please checkout their offerings [here](https://www.wellesleypublishers.com/).
+
 **Let's Cut The Check For Now, Shall We?**
