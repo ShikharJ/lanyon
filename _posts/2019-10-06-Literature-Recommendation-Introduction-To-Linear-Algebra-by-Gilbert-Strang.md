@@ -3,7 +3,7 @@ layout:	post
 title: Literature Recommendation - Introduction To Linear Algebra by Gilbert Strang
 ---
 
-<a href="//www.wellesleypublishers.com" target="_blank">
+<a href="//wellesleypublishers.com" target="_blank">
 	<img align = "middle" src = "/assets/ILAGS.png">
 </a>
 
