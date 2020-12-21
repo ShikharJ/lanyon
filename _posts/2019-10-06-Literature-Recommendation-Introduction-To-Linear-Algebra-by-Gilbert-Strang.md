@@ -3,7 +3,9 @@ layout:	post
 title: Literature Recommendation - Introduction To Linear Algebra by Gilbert Strang
 ---
 
-<img align = "middle" src = "/assets/ILAGS.png">
+<a href="www.wellesleypublishers.com" target="_blank">
+	<img align = "middle" src = "/assets/ILAGS.png">
+</a>
 
 For those of you greenhorns that have just made your venture into the world of machine learning, it must not come as a surprise to you that linear algebra is the purest soul of the realm. Most of the ML and optimization world borrows ideas heavily from the same, and it is single-handedly the most important area of mathematics that will dictate your level of thinking while tackling ML problems.
 
